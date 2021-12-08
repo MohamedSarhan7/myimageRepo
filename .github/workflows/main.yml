@@ -20,4 +20,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: mohamedsarhan7/myimage:latest
+          tags: mohamedsarhan7/myimage-github-actions:latest
